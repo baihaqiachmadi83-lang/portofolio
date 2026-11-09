@@ -1,0 +1,17 @@
+DOKUMEN PORTOFOLIO PEMBELAJARAN (INSTRUCTIONAL DESIGN ASSETS)
+=============================================================
+Folder ini disediakan untuk menyimpan dokumen asli dalam format PDF atau DOCX.
+
+Daftar dokumen yang dapat Anda tempatkan di sini:
+1. rpp-simple-present-tense.pdf
+   - Rencana Pelaksanaan Pembelajaran untuk materi Simple Present Tense.
+2. worksheet-student-activities.pdf
+   - Lembar kerja siswa interaktif (Vocabulary, Grammar, Dialogue, Hobbies).
+3. teaching-script-dialogue.pdf
+   - Naskah pengajaran dan panduan fasilitator/tutor Paket C.
+4. instructional-design-overview.pdf
+   - Gambaran komprehensif rancangan modul pembelajaran digital.
+
+Catatan Teknis:
+Setelah Anda menambahkan file PDF ke folder ini, Anda dapat menghubungkannya
+ke tombol "Buka Dokumen" di kartu Project 04 pada index.html.
